@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+Mehran;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,14 +9,14 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  Hi, I'm Mehran Khan, 
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  👨‍🎓 I'm currently studying to be a web developer (self-taught). 
   <br>
   💻 I love Writing code, Hardware and learning anything about them 😊
   <br>
-  📚 I’m currently focusing on Data Science 
+  📚 I’m currently focusing on Full Stack Developer 
   <br>
   📫 How to reach me 👇
 </p>
@@ -71,7 +71,16 @@
 </a>    
 
 </p>
+<p>
+Little facts about me 🧑
 
+    🧞 I'm a Tech Enthusiast since childhood.
+    🔭 I’m currently working on Fullstack Web Development, Android Development & DevOps Engineering.
+    👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
+    💡 Contributing to Open Source Projects is always been a goal to me.
+    ⚡ Fun fact: I love Sports, especially Cricket.
+
+</p>
 <hr>
 <p align="center">
   <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
@@ -86,6 +95,6 @@
   <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/HalemoGPA?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 <!---
-HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mehran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
